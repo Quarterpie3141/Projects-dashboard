@@ -1,0 +1,10 @@
+.menuCustom {
+    width: 256px; 
+  }
+  
+
+@media (max-width: 640px) {
+    .menuCustom {
+      display: none;
+    }
+  }
